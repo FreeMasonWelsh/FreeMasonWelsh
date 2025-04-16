@@ -1,14 +1,48 @@
-# 👋 Hi, I’m @FreeMasonWelsh
+````markdown name=README.md
+# 👋 Hi there, I'm FreeMasonWelsh!
 
-## About Me
-- 👀 I’m interested in web development, open-source contributions, and automation.
-- 🌱 I’m currently learning advanced JavaScript, TypeScript, DevOps practices, and Chat GTP 4.5.
-- 💞️ I’m looking to collaborate on exciting open-source projects and web applications.
-- 📫 How to reach me: Fatherhood.foundation9225@gmail.com.
-- ⚡ Fun fact: I love learning.
+Welcome to my GitHub profile! I'm a passionate developer, problem solver, and lifelong learner. Here you'll find my journey through code, collaboration, and creativity.
+
 ---
 
-## About This Repository
-This repository contains the configuration files for my GitHub profile. The `README.md` file here is displayed on my public GitHub profile, giving visitors insight into who I am and what I do.
+## 🚀 About Me
 
-Feel free to explore and connect with me!
+- 🧑‍💻 **Developer & Maker:** I love building projects that make a difference, from scripts and tools to full-fledged apps.
+- 🌱 **Continuous Learner:** Always exploring new technologies and frameworks to stay ahead in the ever-evolving tech world.
+- 🤝 **Open Source Enthusiast:** I believe in the power of community and enjoy contributing to open source projects.
+
+---
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** JavaScript, Python, TypeScript, Java, C#
+- **Frameworks:** React, Node.js, Express, Django, .NET
+- **DevOps:** Docker, GitHub Actions, CI/CD
+- **Others:** SQL, MongoDB, REST APIs, GraphQL
+
+---
+
+## 📈 GitHub Stats
+
+![FreeMasonWelsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreeMasonWelsh&show_icons=true&theme=radical)
+
+---
+
+## 📫 How to Reach Me
+
+- **GitHub:** [@FreeMasonWelsh](https://github.com/FreeMasonWelsh)
+- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com) <!-- Replace with your actual email or remove if private -->
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/YourLinkedIn/) <!-- Replace with your actual LinkedIn or remove if private -->
+
+---
+
+## ⚡ Fun Facts
+
+- 🧩 I love solving puzzles and brain teasers.
+- 🌍 I'm always looking to connect with fellow developers worldwide.
+- 🎮 Gaming and technology are my twin passions.
+
+---
+
+Thanks for stopping by! ⭐️
+````
