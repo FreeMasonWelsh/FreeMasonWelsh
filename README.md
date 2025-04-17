@@ -31,8 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer, problem solver, and li
 ## 📫 How to Reach Me
 
 - **GitHub:** [@FreeMasonWelsh](https://github.com/FreeMasonWelsh)
-- **Email:** [YourEmail@example.com](mailto:YourEmail@example.com) <!-- Replace with your actual email or remove if private -->
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/YourLinkedIn/) <!-- Replace with your actual LinkedIn or remove if private -->
+- **Email:** (fatherhood.foundation9225@gmail.com)
 
 ---
 
